@@ -1,0 +1,52 @@
+body{
+
+    background-color:grey;
+
+}
+
+#wrapper{
+
+    background-color: white;
+
+    width: 1000px;
+
+    border:1px solid grey;
+
+    margin:0px auto;
+
+    padding:10px;
+
+}
+
+#header{
+
+    height:200px;
+
+    border:1px solid grey;
+
+    background-image:url("logo_black.png");
+
+}
+
+
+
+
+
+
+#body
+
+{
+	background-color:white;
+	
+	width:730px;
+
+     border:1px solid grey;
+
+     float:left;
+
+     padding:10px;
+
+     margin-bottom:10px;
+
+}
+
